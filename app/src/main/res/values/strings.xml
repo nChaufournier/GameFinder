@@ -5,4 +5,14 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    //Colors
+    <string name="colorPrimary">#4CAF50</string>
+    <string name="textColorSecondary">#727272</string>
+    <string name="colorAccent">#03A9F4</string>
+    <string name="colorPrimaryDark">#388E3C</string>>
+
+    //Server Connect
+    <string name="parse_app_id">X65hnvoEpbCyTbKYt4io1zO42HlM0Qe89q2uLCIF</string>
+    <string name="parse_client_key">LPE5wiyxTPZU3gWpspAteM5YLbMOIJCaPUHO1kuq</string>
+
 </resources>
